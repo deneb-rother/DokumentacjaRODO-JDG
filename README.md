@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/deneb-rother/ProjectName)](https://github.com/deneb-rother/DokumentacjaRODO-JDG/releases)
 [![Downloads](https://img.shields.io/github/downloads/deneb-rother/ProjectName/total)](https://github.com/deneb-rother/DokumentacjaRODO-JDG/releases)
 [![Code License](https://img.shields.io/badge/code-MIT-blue)](https://github.com/deneb-rother/DokumentacjaRODO-JDG/LICENSE)
-[![Content License](https://img.shields.io/badge/dataset-CC_BY--SA_4.0-green)](https://github.com/deneb-rother/DokumentacjaRODO-JDG/LICENSE-CC)
+[![Content License](https://img.shields.io/badge/content-CC_BY--SA_4.0-green)](https://github.com/deneb-rother/DokumentacjaRODO-JDG/LICENSE-CC)
 
 ## Zastrzeżenie
 
