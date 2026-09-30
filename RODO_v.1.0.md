@@ -504,3 +504,6 @@ Zasadniczo projekt rozróżnia trzy typy dokumentacji:
 Wszystkie te dokumenty mogą zawierać zastępcze teksty, które należy zamienić na docelowe np. imię i nazwisko administratora, adres itd. Wszystkie one mają format [RODO: xxx]. 
 
 Docelowe dokumenty nie powinny zawierać tego typu pól - powinny one zostać zastąpione faktycznymi informacjami.
+
+
+
